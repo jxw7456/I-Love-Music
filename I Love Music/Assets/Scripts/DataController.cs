@@ -22,6 +22,18 @@ public class DataController : MonoBehaviour
         else if (SceneManager.GetActiveScene().name == "DrakeQuestions")
             return allRoundData[1];
 
+        else if (SceneManager.GetActiveScene().name == "JColeQuestions")
+            return allRoundData[2];
+
+        else if (SceneManager.GetActiveScene().name == "DCQuestions")
+            return allRoundData[3];
+
+        else if (SceneManager.GetActiveScene().name == "CBQuestions")
+            return allRoundData[4];
+
+        else if (SceneManager.GetActiveScene().name == "PMQuestions")
+            return allRoundData[5];
+
         else
             return allRoundData[0];
     }

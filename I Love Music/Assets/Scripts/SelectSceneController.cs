@@ -18,4 +18,24 @@ public class SelectSceneController : MonoBehaviour
     {
         SceneManager.LoadScene("JColeQuestions");
     }
+
+    public void LoadCaesar()
+    {
+        SceneManager.LoadScene("DCQuestions");
+    }
+
+    public void LoadChris()
+    {
+        SceneManager.LoadScene("CBQuestions");
+    }
+
+    public void LoadPost()
+    {
+        SceneManager.LoadScene("PMQuestions");
+    }
+
+    public void LoadVisualizer()
+    {
+        SceneManager.LoadScene("Visualizer");
+    }
 }

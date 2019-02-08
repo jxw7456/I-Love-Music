@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
+    // Attributes
     public TMPro.TMP_Text questionText, scoreDisplayText, timeRemainingDisplayText;
 
     public SimpleObjectPool answerButtonObjectPool;
@@ -25,9 +26,9 @@ public class GameController : MonoBehaviour
 
     private float timeRemaining;
 
-    private int questionIndex, playerScore;
+    private int questionIndex, playerScore, roundScore;
 
-    // Use this for initialization
+    // Initalized
     void Start()
     {
         dataController = FindObjectOfType<DataController>();
@@ -36,7 +37,9 @@ public class GameController : MonoBehaviour
         timeRemaining = currentRoundData.timeLimitInSeconds;
         UpdateTimeRemainingDisplay();
 
-        playerScore = PlayerPrefs.GetInt("Score");
+        roundScore = PlayerPrefs.GetInt("Score");
+        playerScore = roundScore;
+        scoreDisplayText.text = "Score: " + playerScore.ToString();
         questionIndex = 0;
 
         ShowQuestion();
@@ -73,7 +76,8 @@ public class GameController : MonoBehaviour
     {
         if (isCorrect)
         {
-            playerScore += currentRoundData.pointsAddedForCorrectAnswer;
+            roundScore += currentRoundData.pointsAddedForCorrectAnswer;
+            playerScore = roundScore;
             scoreDisplayText.text = "Score: " + playerScore.ToString();
         }            
 
@@ -83,9 +87,7 @@ public class GameController : MonoBehaviour
             ShowQuestion();
         }
         else
-        {
             EndRound();
-        }
     }
 
     public void EndRound()
@@ -95,7 +97,7 @@ public class GameController : MonoBehaviour
         questionDisplay.SetActive(false);
         roundEndDisplay.SetActive(true);
 
-        PlayerPrefs.SetInt("Score", playerScore);
+        PlayerPrefs.SetInt("Score", roundScore);
     }
 
     public void ReturnToArtists()

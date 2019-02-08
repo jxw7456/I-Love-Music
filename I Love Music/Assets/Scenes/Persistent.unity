@@ -241,6 +241,106 @@ MonoBehaviour:
         isCorrect: 0
       - answerText: Dreamville
         isCorrect: 0
+  - name: Round Daniel
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: At what age did Daniel Caesar begin performing?
+      answers:
+      - answerText: 7
+        isCorrect: 1
+      - answerText: 6
+        isCorrect: 1
+      - answerText: 21
+        isCorrect: 0
+      - answerText: 5
+        isCorrect: 0
+    - questionText: What is the name of Daniel Caesar's debut album
+      answers:
+      - answerText: Get You
+        isCorrect: 0
+      - answerText: Freudian
+        isCorrect: 1
+      - answerText: Praise Break
+        isCorrect: 0
+      - answerText: Pilgrim's Paradise
+        isCorrect: 0
+    - questionText: How many albums does Daniel Caesar have?
+      answers:
+      - answerText: 1
+        isCorrect: 1
+      - answerText: 3
+        isCorrect: 0
+      - answerText: 2
+        isCorrect: 0
+      - answerText: 4
+        isCorrect: 0
+  - name: Round Chris
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: Chris Brown owns 14 of the franchise fast food restaurant. What
+        is that restaurant?
+      answers:
+      - answerText: McDonalds
+        isCorrect: 0
+      - answerText: Five Guys
+        isCorrect: 0
+      - answerText: Burger King
+        isCorrect: 1
+      - answerText: Chipolte
+        isCorrect: 0
+    - questionText: Chris Brown's Career took off at what age?
+      answers:
+      - answerText: 8
+        isCorrect: 0
+      - answerText: 21
+        isCorrect: 0
+      - answerText: 18
+        isCorrect: 0
+      - answerText: 16
+        isCorrect: 1
+    - questionText: What movie has Chris Brown not played in?
+      answers:
+      - answerText: Takers
+        isCorrect: 0
+      - answerText: Think Like a Man 2
+        isCorrect: 1
+      - answerText: Stomp the Yard
+        isCorrect: 0
+      - answerText: This Christmas
+        isCorrect: 0
+  - name: Round Post
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: Post Malone said he would switch to this genre of music one day.
+      answers:
+      - answerText: Pop
+        isCorrect: 0
+      - answerText: Country
+        isCorrect: 1
+      - answerText: Punk
+        isCorrect: 0
+      - answerText: Blues
+        isCorrect: 0
+    - questionText: Post Malone has a mixtape titled 'August 26' and released it on
+        August 26.
+      answers:
+      - answerText: True
+        isCorrect: 0
+      - answerText: False
+        isCorrect: 1
+    - questionText: What name is not in Post Malone's real name?
+      answers:
+      - answerText: Austin
+        isCorrect: 0
+      - answerText: Malone
+        isCorrect: 1
+      - answerText: Richard
+        isCorrect: 0
+      - answerText: Post
+        isCorrect: 0
 --- !u!4 &350258759
 Transform:
   m_ObjectHideFlags: 0
