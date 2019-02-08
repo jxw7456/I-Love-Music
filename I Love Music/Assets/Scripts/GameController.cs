@@ -36,7 +36,7 @@ public class GameController : MonoBehaviour
         timeRemaining = currentRoundData.timeLimitInSeconds;
         UpdateTimeRemainingDisplay();
 
-        playerScore = 0;
+        playerScore = PlayerPrefs.GetInt("Score");
         questionIndex = 0;
 
         ShowQuestion();
@@ -95,6 +95,7 @@ public class GameController : MonoBehaviour
         questionDisplay.SetActive(false);
         roundEndDisplay.SetActive(true);
 
+        PlayerPrefs.SetInt("Score", playerScore);
     }
 
     public void ReturnToArtists()

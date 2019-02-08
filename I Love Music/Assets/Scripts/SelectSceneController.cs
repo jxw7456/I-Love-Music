@@ -13,4 +13,9 @@ public class SelectSceneController : MonoBehaviour
     {
         SceneManager.LoadScene("DrakeQuestions");
     }
+
+    public void LoadCole()
+    {
+        SceneManager.LoadScene("JColeQuestions");
+    }
 }

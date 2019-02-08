@@ -328,7 +328,7 @@ MonoBehaviour:
   m_material: {fileID: 0}
   m_sharedMaterial: {fileID: 0}
   m_isDefaultMaterial: 0
-  m_padding: 0.5
+  m_padding: 0.95
   m_canvasRenderer: {fileID: 103409949}
   m_TextComponent: {fileID: 478169749}
   m_materialReferenceIndex: 1
@@ -1588,7 +1588,7 @@ MonoBehaviour:
   m_material: {fileID: 0}
   m_sharedMaterial: {fileID: 0}
   m_isDefaultMaterial: 0
-  m_padding: 0.5
+  m_padding: 0.95
   m_canvasRenderer: {fileID: 1765320001}
   m_TextComponent: {fileID: 1193301295}
   m_materialReferenceIndex: 1

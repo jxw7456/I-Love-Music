@@ -210,6 +210,37 @@ MonoBehaviour:
         isCorrect: 0
       - answerText: Chris Brown
         isCorrect: 0
+  - name: Round JCole
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: J. Cole's middle name is similar to a name of this Compton rapper.
+        Who is that rapper?
+      answers:
+      - answerText: The Game
+        isCorrect: 0
+      - answerText: Dr. Dre
+        isCorrect: 0
+      - answerText: Kendrick Lamar
+        isCorrect: 1
+      - answerText: Eazy E.
+        isCorrect: 0
+    - questionText: J. Cole is not formally from the United States. True or False?
+      answers:
+      - answerText: True
+        isCorrect: 1
+      - answerText: False
+        isCorrect: 0
+    - questionText: Cole was the first rap artist signed to this label by Jay-Z.
+      answers:
+      - answerText: Roc Nation
+        isCorrect: 1
+      - answerText: G.O.O.D Music
+        isCorrect: 0
+      - answerText: Maybach Music
+        isCorrect: 0
+      - answerText: Dreamville
+        isCorrect: 0
 --- !u!4 &350258759
 Transform:
   m_ObjectHideFlags: 0
