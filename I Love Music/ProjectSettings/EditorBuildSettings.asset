@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/MenuScreen.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
+    path: Assets/Scenes/Visualizer.unity
+    guid: 53c4291eec0f40a41af926647d67d975
+  - enabled: 1
     path: Assets/Scenes/SelectScene.unity
     guid: 8779b3584cc007746876454313570f64
   - enabled: 1
@@ -23,4 +26,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/JColeQuestions.unity
     guid: 43ca52c5304040b44908f03184e32c5c
+  - enabled: 1
+    path: Assets/Scenes/DCQuestions.unity
+    guid: 0a890210c85492540ad8d2a2ba37d06f
+  - enabled: 1
+    path: Assets/Scenes/CBQuestions.unity
+    guid: ad1a2263843bfa241bd9b0f62a952a57
+  - enabled: 1
+    path: Assets/Scenes/PMQuestions.unity
+    guid: ac4bdf52cf6f51645ac623bff935c2d3
   m_configObjects: {}

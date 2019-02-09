@@ -33,9 +33,4 @@ public class SelectSceneController : MonoBehaviour
     {
         SceneManager.LoadScene("PMQuestions");
     }
-
-    public void LoadVisualizer()
-    {
-        SceneManager.LoadScene("Visualizer");
-    }
 }

@@ -8,4 +8,9 @@ public class MenuScreenController : MonoBehaviour
     {
         SceneManager.LoadScene("SelectScene");
     }
+
+    public void LoadVisualizer()
+    {
+        SceneManager.LoadScene("Visualizer");
+    }
 }

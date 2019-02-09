@@ -6,7 +6,7 @@ public class DataController : MonoBehaviour
 {
     public RoundData[] allRoundData;
 
-    // Use this for initialization
+    // Only in the Persistent scene, is not destroyed throughout the game and opens up the Menu Scene
     void Start()
     {
         DontDestroyOnLoad(gameObject);
@@ -14,6 +14,7 @@ public class DataController : MonoBehaviour
         SceneManager.LoadScene("MenuScreen");
     }
 
+    // Grabs the right data according to the artist
     public RoundData GetCurrentRoundData()
     {
         if (SceneManager.GetActiveScene().name == "KLQuestions")
@@ -35,12 +36,6 @@ public class DataController : MonoBehaviour
             return allRoundData[5];
 
         else
-            return allRoundData[0];
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
+            return null;
     }
 }
