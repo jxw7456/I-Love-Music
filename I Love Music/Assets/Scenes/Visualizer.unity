@@ -245,9 +245,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &23067692
 MonoBehaviour:
@@ -336,8 +336,8 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 2
   beatColors:
-  - {r: 1, g: 0.7819159, b: 0, a: 1}
-  - {r: 1, g: 0.53020316, b: 0, a: 1}
+  - {r: 0.2732734, g: 0.8396226, b: 0.59267956, a: 1}
+  - {r: 0.05139729, g: 0.5188679, b: 0.421729, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &24653003
 MonoBehaviour:
@@ -579,7 +579,7 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0, g: 0.92096996, b: 1, a: 1}
+  - {r: 0, g: 0.08895445, b: 1, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!1 &167864844
 GameObject:
@@ -633,7 +633,7 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.022427902, g: 0.4886255, b: 0.5283019, a: 1}
+  - {r: 0, g: 0.056159854, b: 0.6226415, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &167864847
 MonoBehaviour:
@@ -791,8 +791,8 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 2
   beatColors:
-  - {r: 1, g: 0.7819159, b: 0, a: 1}
-  - {r: 1, g: 0.53020316, b: 0, a: 1}
+  - {r: 0.2732734, g: 0.8396226, b: 0.59267956, a: 1}
+  - {r: 0.05139729, g: 0.5188679, b: 0.421729, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &225239666
 MonoBehaviour:
@@ -984,8 +984,8 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 2
   beatColors:
-  - {r: 1, g: 0.7819159, b: 0, a: 1}
-  - {r: 1, g: 0.53020316, b: 0, a: 1}
+  - {r: 0.2732734, g: 0.8396226, b: 0.59267956, a: 1}
+  - {r: 0.05139729, g: 0.5188679, b: 0.421729, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &273741514
 MonoBehaviour:
@@ -1395,9 +1395,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &316654919
 MonoBehaviour:
@@ -1486,9 +1486,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &423725405
 MonoBehaviour:
@@ -1637,9 +1637,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &473998607
 MonoBehaviour:
@@ -2073,7 +2073,7 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.012459958, g: 0.348739, b: 0.3773585, a: 1}
+  - {r: 0, g: 0.045948975, b: 0.509434, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!1 &817428697
 GameObject:
@@ -2086,7 +2086,6 @@ GameObject:
   - component: {fileID: 817428700}
   - component: {fileID: 817428699}
   - component: {fileID: 817428698}
-  - component: {fileID: 817428702}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -2161,18 +2160,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &817428702
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 817428697}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ff26db721962cdf4a8edcdfa9a767d2a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  profile: {fileID: 11400000, guid: 1c0c309db4ff22f4488255fba1a1b758, type: 2}
 --- !u!1 &874726329
 GameObject:
   m_ObjectHideFlags: 0
@@ -2226,9 +2213,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &874726332
 MonoBehaviour:
@@ -2334,8 +2321,8 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 2
   beatColors:
-  - {r: 1, g: 0.7819159, b: 0, a: 1}
-  - {r: 1, g: 0.53020316, b: 0, a: 1}
+  - {r: 0.2732734, g: 0.8396226, b: 0.59267956, a: 1}
+  - {r: 0.05139729, g: 0.5188679, b: 0.421729, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &892653410
 MonoBehaviour:
@@ -2441,8 +2428,8 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 2
   beatColors:
-  - {r: 1, g: 0.7819159, b: 0, a: 1}
-  - {r: 1, g: 0.53020316, b: 0, a: 1}
+  - {r: 0.2732734, g: 0.8396226, b: 0.59267956, a: 1}
+  - {r: 0.05139729, g: 0.5188679, b: 0.421729, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &907570238
 MonoBehaviour:
@@ -2547,7 +2534,7 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0, g: 0.7129116, b: 0.7735849, a: 1}
+  - {r: 0, g: 0.07147618, b: 0.7924528, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &924096003
 MonoBehaviour:
@@ -2653,8 +2640,8 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 2
   beatColors:
-  - {r: 1, g: 0.7819159, b: 0, a: 1}
-  - {r: 1, g: 0.53020316, b: 0, a: 1}
+  - {r: 0.2732734, g: 0.8396226, b: 0.59267956, a: 1}
+  - {r: 0.05139729, g: 0.5188679, b: 0.421729, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &950539477
 MonoBehaviour:
@@ -2760,9 +2747,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1041594763
 MonoBehaviour:
@@ -2851,9 +2838,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1109226201
 MonoBehaviour:
@@ -2976,9 +2963,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1193338523
 MonoBehaviour:
@@ -3067,8 +3054,8 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 2
   beatColors:
-  - {r: 1, g: 0.7819159, b: 0, a: 1}
-  - {r: 1, g: 0.53020316, b: 0, a: 1}
+  - {r: 0.2732734, g: 0.8396226, b: 0.59267956, a: 1}
+  - {r: 0.05139729, g: 0.5188679, b: 0.421729, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &1258575472
 MonoBehaviour:
@@ -3174,9 +3161,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1270601612
 MonoBehaviour:
@@ -3367,9 +3354,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1391227920
 MonoBehaviour:
@@ -4027,7 +4014,7 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0, g: 0.22604513, b: 0.24528301, a: 1}
+  - {r: 0, g: 0.036588997, b: 0.4056604, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &1618408012
 MonoBehaviour:
@@ -4185,9 +4172,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1697344463
 MonoBehaviour:
@@ -4293,9 +4280,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1699106115
 MonoBehaviour:
@@ -4401,9 +4388,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1766098616
 MonoBehaviour:
@@ -4526,9 +4513,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1768374523
 MonoBehaviour:
@@ -4677,9 +4664,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1802560653
 MonoBehaviour:
@@ -4785,9 +4772,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1814021520
 MonoBehaviour:
@@ -4893,9 +4880,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1843857845
 MonoBehaviour:
@@ -5101,9 +5088,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1890919789
 MonoBehaviour:
@@ -5261,8 +5248,8 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 2
   beatColors:
-  - {r: 1, g: 0.7819159, b: 0, a: 1}
-  - {r: 1, g: 0.53020316, b: 0, a: 1}
+  - {r: 0.2732734, g: 0.8396226, b: 0.59267956, a: 1}
+  - {r: 0.05139729, g: 0.5188679, b: 0.421729, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &1920990682
 MonoBehaviour:
@@ -5467,9 +5454,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &1963337344
 MonoBehaviour:
@@ -5558,8 +5545,8 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 2
   beatColors:
-  - {r: 1, g: 0.7819159, b: 0, a: 1}
-  - {r: 1, g: 0.53020316, b: 0, a: 1}
+  - {r: 0.2732734, g: 0.8396226, b: 0.59267956, a: 1}
+  - {r: 0.05139729, g: 0.5188679, b: 0.421729, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &1964670597
 MonoBehaviour:
@@ -5833,8 +5820,8 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 2
   beatColors:
-  - {r: 1, g: 0.7819159, b: 0, a: 1}
-  - {r: 1, g: 0.53020316, b: 0, a: 1}
+  - {r: 0.2732734, g: 0.8396226, b: 0.59267956, a: 1}
+  - {r: 0.05139729, g: 0.5188679, b: 0.421729, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!1 &1989963492
 GameObject:
@@ -5987,7 +5974,7 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0, g: 0.1391047, b: 0.1509434, a: 1}
+  - {r: 0, g: 0.022974487, b: 0.254717, a: 1}
   restColor: {r: 0, g: 0, b: 0, a: 1}
 --- !u!114 &2062888267
 MonoBehaviour:
@@ -6296,9 +6283,9 @@ MonoBehaviour:
   timeToBeat: 0.05
   restSmoothTime: 5
   beatColors:
-  - {r: 0.66707516, g: 0, b: 1, a: 1}
-  - {r: 0, g: 0.0793221, b: 1, a: 1}
-  - {r: 1, g: 0, b: 0.9818754, a: 1}
+  - {r: 0, g: 0.49745226, b: 1, a: 1}
+  - {r: 0.9969581, g: 1, b: 0.495283, a: 1}
+  - {r: 1, g: 0.20106912, b: 0, a: 1}
   restColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &2094400398
 MonoBehaviour:
