@@ -1,9 +1,9 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SelectSceneController : MonoBehaviour
 {
+    // Loading the proper artist screens
     public void LoadKendrick()
     {
         SceneManager.LoadScene("KLQuestions");

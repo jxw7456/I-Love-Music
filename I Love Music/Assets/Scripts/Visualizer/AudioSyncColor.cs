@@ -1,64 +1,63 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
 [RequireComponent(typeof(Image))]
-public class AudioSyncColor : AudioSyncer {
+public class AudioSyncColor : AudioSyncer
+{
+    public Color[] beatColors;
+    public Color restColor;
 
-	private IEnumerator MoveToColor(Color _target)
-	{
-		Color _curr = m_img.color;
-		Color _initial = _curr;
-		float _timer = 0;
-		
-		while (_curr != _target)
-		{
-			_curr = Color.Lerp(_initial, _target, _timer / timeToBeat);
-			_timer += Time.deltaTime;
+    private int m_randomIndx;
+    private Image m_img;
 
-			m_img.color = _curr;
+    private IEnumerator MoveToColor(Color _target)
+    {
+        Color _curr = m_img.color;
+        Color _initial = _curr;
+        float _timer = 0;
 
-			yield return null;
-		}
+        while (_curr != _target)
+        {
+            _curr = Color.Lerp(_initial, _target, _timer / timeToBeat);
+            _timer += Time.deltaTime;
 
-		m_isBeat = false;
-	}
+            m_img.color = _curr;
 
-	private Color RandomColor()
-	{
-		if (beatColors == null || beatColors.Length == 0) return Color.white;
-		m_randomIndx = Random.Range(0, beatColors.Length);
-		return beatColors[m_randomIndx];
-	}
+            yield return null;
+        }
 
-	public override void OnUpdate()
-	{
-		base.OnUpdate();
+        m_isBeat = false;
+    }
 
-		if (m_isBeat) return;
+    private Color RandomColor()
+    {
+        if (beatColors == null || beatColors.Length == 0) return Color.white;
+        m_randomIndx = Random.Range(0, beatColors.Length);
+        return beatColors[m_randomIndx];
+    }
 
-		m_img.color = Color.Lerp(m_img.color, restColor, restSmoothTime * Time.deltaTime);
-	}
+    public override void OnUpdate()
+    {
+        base.OnUpdate();
 
-	public override void OnBeat()
-	{
-		base.OnBeat();
+        if (m_isBeat) return;
 
-		Color _c = RandomColor();
+        m_img.color = Color.Lerp(m_img.color, restColor, restSmoothTime * Time.deltaTime);
+    }
 
-		StopCoroutine("MoveToColor");
-		StartCoroutine("MoveToColor", _c);
-	}
+    public override void OnBeat()
+    {
+        base.OnBeat();
 
-	private void Start()
-	{
-		m_img = GetComponent<Image>();
-	}
+        Color _c = RandomColor();
 
-	public Color[] beatColors;
-	public Color restColor;
+        StopCoroutine("MoveToColor");
+        StartCoroutine("MoveToColor", _c);
+    }
 
-	private int m_randomIndx;
-	private Image m_img;
+    private void Start()
+    {
+        m_img = GetComponent<Image>();
+    }    
 }

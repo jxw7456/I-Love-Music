@@ -1,9 +1,7 @@
-﻿using System.Collections;
-using UnityEngine;
-
-[System.Serializable]
+﻿[System.Serializable]
 public class AnswerData
 {
+    // Attributes
     public string answerText;
     public bool isCorrect;
 }

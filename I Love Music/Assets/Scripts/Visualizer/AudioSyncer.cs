@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 /// <summary>
 /// Parent class responsible for extracting beats from spectrum value
