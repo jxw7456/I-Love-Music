@@ -5614,9 +5614,9 @@ RectTransform:
   m_Father: {fileID: 1989963496}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 1, y: 0.5}
-  m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: -125, y: -400}
+  m_AnchorMin: {x: 1, y: 0}
+  m_AnchorMax: {x: 1, y: 0}
+  m_AnchoredPosition: {x: -125, y: 51}
   m_SizeDelta: {x: 2000, y: 500}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1972366416
@@ -6084,9 +6084,9 @@ RectTransform:
   m_Father: {fileID: 280243847}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 273, y: -30}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 250, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2075114167
@@ -6135,22 +6135,16 @@ MonoBehaviour:
     m_Options:
     - m_Text: Chris Brown
       m_Image: {fileID: 21300000, guid: 7a8eb43661832854c997ff7d1b400592, type: 3}
-      m_Audio: {fileID: 0}
     - m_Text: Daniel Caesar
       m_Image: {fileID: 21300000, guid: ee50e562da44c164283dd226d4b1784e, type: 3}
-      m_Audio: {fileID: 0}
     - m_Text: Post Malone
       m_Image: {fileID: 21300000, guid: 98fab60374e333647a98269a25b60aae, type: 3}
-      m_Audio: {fileID: 0}
     - m_Text: Kendrick Lamar
       m_Image: {fileID: 21300000, guid: d5fce2a140683614f9f73e2d09d70732, type: 3}
-      m_Audio: {fileID: 0}
     - m_Text: J. Cole
       m_Image: {fileID: 21300000, guid: c2e3e678e5df40343a21123a004c5072, type: 3}
-      m_Audio: {fileID: 0}
     - m_Text: Drake
       m_Image: {fileID: 21300000, guid: 27d251b8becc0694c94b0538e51f7ad4, type: 3}
-      m_Audio: {fileID: 0}
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
