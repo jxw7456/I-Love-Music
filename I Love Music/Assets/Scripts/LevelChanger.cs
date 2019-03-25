@@ -5,7 +5,6 @@ public class LevelChanger : MonoBehaviour
 {
     // Attributes
     public Animator animator;
-
     public string levelToLoad;
 
     // Update is called once per frame
