@@ -34,6 +34,9 @@ public class DataController : MonoBehaviour
         else if (SceneManager.GetActiveScene().name == "PMQuestions")
             return allRoundData[5];
 
+        else if (SceneManager.GetActiveScene().name == "M5Questions")
+            return allRoundData[6];
+
         else
             return null;
     }

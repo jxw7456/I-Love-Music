@@ -33,4 +33,9 @@ public class SelectSceneController : MonoBehaviour
     {
         SceneManager.LoadScene("PMQuestions");
     }
+
+    public void LoadM5()
+    {
+        SceneManager.LoadScene("M5Questions");
+    }
 }

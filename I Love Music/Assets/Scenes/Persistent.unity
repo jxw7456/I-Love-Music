@@ -50,7 +50,6 @@ LightmapSettings:
     m_BounceScale: 1
     m_IndirectOutputScale: 1
     m_AlbedoBoost: 1
-    m_TemporalCoherenceThreshold: 1
     m_EnvironmentLightingMode: 0
     m_EnableBakedLightmaps: 0
     m_EnableRealtimeLightmaps: 0
@@ -117,7 +116,8 @@ NavMeshSettings:
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
   - component: {fileID: 350258759}
@@ -133,7 +133,8 @@ GameObject:
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 350258757}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -341,11 +342,46 @@ MonoBehaviour:
         isCorrect: 0
       - answerText: Post
         isCorrect: 0
+  - name: Round Maroon
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
 --- !u!4 &350258759
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 350258757}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.5645261, y: -0.07220415, z: 306.1529}
