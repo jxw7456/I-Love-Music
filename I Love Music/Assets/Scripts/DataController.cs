@@ -25,7 +25,7 @@ public class DataController : MonoBehaviour
         else if (SceneManager.GetActiveScene().name == "JColeQuestions")
             return allRoundData[2];
 
-        else if (SceneManager.GetActiveScene().name == "DCQuestions")
+        else if (SceneManager.GetActiveScene().name == "EMQuestions")
             return allRoundData[3];
 
         else if (SceneManager.GetActiveScene().name == "CBQuestions")
@@ -37,31 +37,46 @@ public class DataController : MonoBehaviour
         else if (SceneManager.GetActiveScene().name == "M5Questions")
             return allRoundData[6];
 
-        else if (SceneManager.GetActiveScene().name == "M5Questions")
+        else if (SceneManager.GetActiveScene().name == "SZAQuestions")
             return allRoundData[7];
 
-        else if (SceneManager.GetActiveScene().name == "M5Questions")
+        else if (SceneManager.GetActiveScene().name == "LogicQuestions")
             return allRoundData[8];
 
-        else if (SceneManager.GetActiveScene().name == "M5Questions")
+        else if (SceneManager.GetActiveScene().name == "FOQuestions")
             return allRoundData[9];
 
-        else if (SceneManager.GetActiveScene().name == "M5Questions")
+        else if (SceneManager.GetActiveScene().name == "MJQuestions")
             return allRoundData[10];
 
-        else if (SceneManager.GetActiveScene().name == "M5Questions")
+        else if (SceneManager.GetActiveScene().name == "TPainQuestions")
             return allRoundData[11];
 
-        else if (SceneManager.GetActiveScene().name == "M5Questions")
+        else if (SceneManager.GetActiveScene().name == "CGQuestions")
             return allRoundData[12];
 
-        else if (SceneManager.GetActiveScene().name == "M5Questions")
+        else if (SceneManager.GetActiveScene().name == "NMQuestions")
             return allRoundData[13];
 
-        else if (SceneManager.GetActiveScene().name == "M5Questions")
+        else if (SceneManager.GetActiveScene().name == "JayZQuestions")
             return allRoundData[14];
 
-        else if (SceneManager.GetActiveScene().name == "M5Questions")
+        else if (SceneManager.GetActiveScene().name == "KhalidQuestions")
+            return allRoundData[15];
+
+        else if (SceneManager.GetActiveScene().name == "FutureQuestions")
+            return allRoundData[15];
+
+        else if (SceneManager.GetActiveScene().name == "TSQuestions")
+            return allRoundData[15];
+
+        else if (SceneManager.GetActiveScene().name == "XXXQuestions")
+            return allRoundData[15];
+
+        else if (SceneManager.GetActiveScene().name == "NHQuestions")
+            return allRoundData[15];
+
+        else if (SceneManager.GetActiveScene().name == "MMQuestions")
             return allRoundData[15];
 
         else
