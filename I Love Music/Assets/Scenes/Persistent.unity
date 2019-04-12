@@ -376,6 +376,474 @@ MonoBehaviour:
         isCorrect: 0
       - answerText: United States
         isCorrect: 0
+  - name: Round SZA
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: SZA writes poetry.
+      answers:
+      - answerText: True
+        isCorrect: 1
+      - answerText: False
+        isCorrect: 0
+    - questionText: She is the only female artist under what record label?
+      answers:
+      - answerText: Top Dawg Entertainment
+        isCorrect: 1
+      - answerText: Roc Nation
+        isCorrect: 0
+      - answerText: Dreamville Records
+        isCorrect: 0
+      - answerText: Columbia Records
+        isCorrect: 0
+    - questionText: SZA's stage name comes from the Supreme Alphabet.
+      answers:
+      - answerText: True
+        isCorrect: 1
+      - answerText: False
+        isCorrect: 0
+  - name: Round Logic
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: He did sign a record deal with this artist?
+      answers:
+      - answerText: Jay-Z
+        isCorrect: 0
+      - answerText: Nas
+        isCorrect: 1
+      - answerText: Kanye West
+        isCorrect: 0
+      - answerText: Drake
+        isCorrect: 0
+    - questionText: Logic is a voice actor in this video game?
+      answers:
+      - answerText: The Last of Us
+        isCorrect: 0
+      - answerText: 'Uncharted 4: A Thief''s End'
+        isCorrect: 0
+      - answerText: Red Dead Redemption 2
+        isCorrect: 0
+      - answerText: The Last of Us Part II
+        isCorrect: 1
+    - questionText: How many albums does he have?
+      answers:
+      - answerText: 4
+        isCorrect: 1
+      - answerText: 5
+        isCorrect: 0
+      - answerText: 3
+        isCorrect: 0
+      - answerText: 1
+        isCorrect: 0
+  - name: Round Frank
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round Michael
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round T-Pain
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round Childish
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round Nicki
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round Jay-Z
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round Khalid
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round Future
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round Travis
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round XXX
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round Nipsey
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
+  - name: Round Mac
+    timeLimitInSeconds: 60
+    pointsAddedForCorrectAnswer: 10
+    questions:
+    - questionText: What was the band's original name?
+      answers:
+      - answerText: Maroon 6
+        isCorrect: 0
+      - answerText: Kara's Flowers
+        isCorrect: 1
+      - answerText: Whisky
+        isCorrect: 0
+      - answerText: AJM
+        isCorrect: 0
+    - questionText: What does their band name come from?
+      answers:
+      - answerText: The amount of members
+        isCorrect: 0
+      - answerText: Random name
+        isCorrect: 0
+      - answerText: A fan chose it
+        isCorrect: 0
+      - answerText: No one knows
+        isCorrect: 1
+    - questionText: What country are they banded from?
+      answers:
+      - answerText: China
+        isCorrect: 1
+      - answerText: Brazil
+        isCorrect: 0
+      - answerText: India
+        isCorrect: 0
+      - answerText: United States
+        isCorrect: 0
 --- !u!4 &350258759
 Transform:
   m_ObjectHideFlags: 0
