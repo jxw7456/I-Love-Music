@@ -242,39 +242,35 @@ MonoBehaviour:
         isCorrect: 0
       - answerText: Dreamville
         isCorrect: 0
-  - name: Round Daniel
+  - name: Round Ella
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: At what age did Daniel Caesar begin performing?
+    - questionText: She was born and raised in London, England.
       answers:
-      - answerText: 7
+      - answerText: True
         isCorrect: 1
-      - answerText: 6
-        isCorrect: 1
-      - answerText: 21
+      - answerText: False
         isCorrect: 0
-      - answerText: 5
-        isCorrect: 0
-    - questionText: What is the name of Daniel Caesar's debut album
+    - questionText: What record label is she signed to?
       answers:
-      - answerText: Get You
+      - answerText: Interscope
         isCorrect: 0
-      - answerText: Freudian
+      - answerText: 10 Summers Records
         isCorrect: 1
-      - answerText: Praise Break
+      - answerText: RocNation
         isCorrect: 0
-      - answerText: Pilgrim's Paradise
+      - answerText: Epic Records
         isCorrect: 0
-    - questionText: How many albums does Daniel Caesar have?
+    - questionText: How many Grammy Awards has she won?
       answers:
+      - answerText: 2
+        isCorrect: 1
       - answerText: 1
-        isCorrect: 1
-      - answerText: 3
         isCorrect: 0
       - answerText: 2
         isCorrect: 0
-      - answerText: 4
+      - answerText: 6
         isCorrect: 0
   - name: Round Chris
     timeLimitInSeconds: 60
@@ -440,409 +436,362 @@ MonoBehaviour:
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: He's an original member of what Hip-Hop group?
       answers:
-      - answerText: Maroon 6
+      - answerText: Onyx
         isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: Odd Future
         isCorrect: 1
-      - answerText: Whisky
+      - answerText: OutKast
         isCorrect: 0
-      - answerText: AJM
+      - answerText: Outlawz
         isCorrect: 0
-    - questionText: What does their band name come from?
+    - questionText: He has NOT written a song for this artist.
       answers:
-      - answerText: The amount of members
+      - answerText: Beyonce
         isCorrect: 0
-      - answerText: Random name
+      - answerText: Brandy
         isCorrect: 0
-      - answerText: A fan chose it
+      - answerText: John Legend
         isCorrect: 0
-      - answerText: No one knows
+      - answerText: Ray-J
         isCorrect: 1
-    - questionText: What country are they banded from?
+    - questionText: What is his legal name?
       answers:
-      - answerText: China
+      - answerText: Lonny Breauz
+        isCorrect: 0
+      - answerText: Christopher Francis Ocean
+        isCorrect: 0
+      - answerText: Christopher Breaux
+        isCorrect: 0
+      - answerText: Frank Ocean
         isCorrect: 1
-      - answerText: Brazil
-        isCorrect: 0
-      - answerText: India
-        isCorrect: 0
-      - answerText: United States
-        isCorrect: 0
   - name: Round Michael
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: He is known as the King of?
       answers:
-      - answerText: Maroon 6
-        isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: Pop
         isCorrect: 1
-      - answerText: Whisky
+      - answerText: Hip-Hop
         isCorrect: 0
-      - answerText: AJM
+      - answerText: R&B
         isCorrect: 0
-    - questionText: What does their band name come from?
+      - answerText: K-Pop
+        isCorrect: 0
+    - questionText: At what age was his first public performance?
       answers:
-      - answerText: The amount of members
-        isCorrect: 0
-      - answerText: Random name
-        isCorrect: 0
-      - answerText: A fan chose it
-        isCorrect: 0
-      - answerText: No one knows
+      - answerText: 5
         isCorrect: 1
-    - questionText: What country are they banded from?
+      - answerText: 7
+        isCorrect: 0
+      - answerText: 10
+        isCorrect: 0
+      - answerText: 11
+        isCorrect: 0
+    - questionText: He was the first black artist to have his song air on MTV.
       answers:
-      - answerText: China
+      - answerText: True
         isCorrect: 1
-      - answerText: Brazil
-        isCorrect: 0
-      - answerText: India
-        isCorrect: 0
-      - answerText: United States
+      - answerText: False
         isCorrect: 0
   - name: Round T-Pain
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: His rap name originates from Tone Pain.
       answers:
-      - answerText: Maroon 6
+      - answerText: True
         isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: False
         isCorrect: 1
-      - answerText: Whisky
-        isCorrect: 0
-      - answerText: AJM
-        isCorrect: 0
-    - questionText: What does their band name come from?
+    - questionText: What is the name of his record label?
       answers:
-      - answerText: The amount of members
+      - answerText: Tallahassee Records
         isCorrect: 0
-      - answerText: Random name
+      - answerText: T-Pain Inc.
         isCorrect: 0
-      - answerText: A fan chose it
-        isCorrect: 0
-      - answerText: No one knows
+      - answerText: Nappy Boy Entertainment
         isCorrect: 1
-    - questionText: What country are they banded from?
+      - answerText: He doesn't own a record label
+        isCorrect: 0
+    - questionText: What is another name for him?
       answers:
-      - answerText: China
+      - answerText: Teddy Penderazdoun
         isCorrect: 1
-      - answerText: Brazil
-        isCorrect: 0
-      - answerText: India
-        isCorrect: 0
-      - answerText: United States
-        isCorrect: 0
+      - answerText: Teddy Verseti
+        isCorrect: 1
+      - answerText: Nappy Boy
+        isCorrect: 1
+      - answerText: Faheem
+        isCorrect: 1
   - name: Round Childish
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: Childish uses his real name when it comes to acting.
       answers:
-      - answerText: Maroon 6
-        isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: True
         isCorrect: 1
-      - answerText: Whisky
+      - answerText: False
         isCorrect: 0
-      - answerText: AJM
-        isCorrect: 0
-    - questionText: What does their band name come from?
+    - questionText: Where did he get his rap name from?
       answers:
-      - answerText: The amount of members
-        isCorrect: 0
-      - answerText: Random name
-        isCorrect: 0
-      - answerText: A fan chose it
-        isCorrect: 0
-      - answerText: No one knows
+      - answerText: A name generator
         isCorrect: 1
-    - questionText: What country are they banded from?
+      - answerText: Wu Tang Clan
+        isCorrect: 0
+      - answerText: Self-made
+        isCorrect: 0
+      - answerText: His parents
+        isCorrect: 0
+    - questionText: He is the son of actor Danny Glover
       answers:
-      - answerText: China
+      - answerText: True
+        isCorrect: 0
+      - answerText: False
         isCorrect: 1
-      - answerText: Brazil
-        isCorrect: 0
-      - answerText: India
-        isCorrect: 0
-      - answerText: United States
-        isCorrect: 0
   - name: Round Nicki
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: What record did she sign to in 2009?
       answers:
-      - answerText: Maroon 6
+      - answerText: Cash Money Records
         isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: G.O.O.D Music
+        isCorrect: 0
+      - answerText: Young Money Records
         isCorrect: 1
-      - answerText: Whisky
+      - answerText: Republic
         isCorrect: 0
-      - answerText: AJM
-        isCorrect: 0
-    - questionText: What does their band name come from?
+    - questionText: How many albums has she released?
       answers:
-      - answerText: The amount of members
+      - answerText: 1
         isCorrect: 0
-      - answerText: Random name
+      - answerText: 2
         isCorrect: 0
-      - answerText: A fan chose it
+      - answerText: 3
         isCorrect: 0
-      - answerText: No one knows
+      - answerText: 4
         isCorrect: 1
-    - questionText: What country are they banded from?
+    - questionText: She was the first female rapper to perform at the Yankee Stadium.
       answers:
-      - answerText: China
+      - answerText: True
         isCorrect: 1
-      - answerText: Brazil
-        isCorrect: 0
-      - answerText: India
-        isCorrect: 0
-      - answerText: United States
+      - answerText: False
         isCorrect: 0
   - name: Round Jay-Z
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: What song did he make to dedicate to his oldest daughter?
       answers:
-      - answerText: Maroon 6
+      - answerText: Girls, Girls, Girls
         isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: Heaven
+        isCorrect: 0
+      - answerText: Glory
         isCorrect: 1
-      - answerText: Whisky
+      - answerText: Holy Grail
         isCorrect: 0
-      - answerText: AJM
-        isCorrect: 0
-    - questionText: What does their band name come from?
+    - questionText: He founded what clothing retailer?
       answers:
-      - answerText: The amount of members
+      - answerText: Coach
         isCorrect: 0
-      - answerText: Random name
-        isCorrect: 0
-      - answerText: A fan chose it
-        isCorrect: 0
-      - answerText: No one knows
+      - answerText: Rocawear
         isCorrect: 1
-    - questionText: What country are they banded from?
+      - answerText: Tommy Hilfiger
+        isCorrect: 0
+      - answerText: Old Navy
+        isCorrect: 0
+    - questionText: How many albums has he sold?
       answers:
-      - answerText: China
+      - answerText: 50 million
         isCorrect: 1
-      - answerText: Brazil
+      - answerText: 1 million
         isCorrect: 0
-      - answerText: India
+      - answerText: 500,000
         isCorrect: 0
-      - answerText: United States
+      - answerText: 5 million
         isCorrect: 0
   - name: Round Khalid
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: His first single came out while he was still in high school
       answers:
-      - answerText: Maroon 6
-        isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: True
         isCorrect: 1
-      - answerText: Whisky
+      - answerText: False
         isCorrect: 0
-      - answerText: AJM
-        isCorrect: 0
-    - questionText: What does their band name come from?
+    - questionText: His was born in Georgia but call ____ home.
       answers:
-      - answerText: The amount of members
-        isCorrect: 0
-      - answerText: Random name
-        isCorrect: 0
-      - answerText: A fan chose it
-        isCorrect: 0
-      - answerText: No one knows
+      - answerText: Texas
         isCorrect: 1
-    - questionText: What country are they banded from?
+      - answerText: Florida
+        isCorrect: 0
+      - answerText: California
+        isCorrect: 0
+      - answerText: New York
+        isCorrect: 0
+    - questionText: Khalid is not his real name.
       answers:
-      - answerText: China
+      - answerText: True
+        isCorrect: 0
+      - answerText: False
         isCorrect: 1
-      - answerText: Brazil
-        isCorrect: 0
-      - answerText: India
-        isCorrect: 0
-      - answerText: United States
-        isCorrect: 0
   - name: Round Future
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: What is Future's other stage name?
       answers:
-      - answerText: Maroon 6
-        isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: Future Hendrix
         isCorrect: 1
-      - answerText: Whisky
-        isCorrect: 0
-      - answerText: AJM
-        isCorrect: 0
-    - questionText: What does their band name come from?
+      - answerText: Super Future
+        isCorrect: 1
+      - answerText: The Wizrd
+        isCorrect: 1
+      - answerText: Fire Marshall Future
+        isCorrect: 1
+    - questionText: How many albums does he have?
       answers:
-      - answerText: The amount of members
+      - answerText: 5
         isCorrect: 0
-      - answerText: Random name
-        isCorrect: 0
-      - answerText: A fan chose it
-        isCorrect: 0
-      - answerText: No one knows
+      - answerText: 7
         isCorrect: 1
-    - questionText: What country are they banded from?
+      - answerText: 4
+        isCorrect: 0
+      - answerText: 12
+        isCorrect: 0
+    - questionText: His real name stands for "King".
       answers:
-      - answerText: China
+      - answerText: True
         isCorrect: 1
-      - answerText: Brazil
-        isCorrect: 0
-      - answerText: India
-        isCorrect: 0
-      - answerText: United States
+      - answerText: False
         isCorrect: 0
   - name: Round Travis
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: What's another name for Travis Scott?
       answers:
-      - answerText: Maroon 6
-        isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: Cactus Jack
         isCorrect: 1
-      - answerText: Whisky
+      - answerText: La Flame
+        isCorrect: 1
+      - answerText: Scottie
         isCorrect: 0
-      - answerText: AJM
+      - answerText: Trav
         isCorrect: 0
-    - questionText: What does their band name come from?
+    - questionText: He started a band at the age of 16.
       answers:
-      - answerText: The amount of members
-        isCorrect: 0
-      - answerText: Random name
-        isCorrect: 0
-      - answerText: A fan chose it
-        isCorrect: 0
-      - answerText: No one knows
+      - answerText: True
         isCorrect: 1
-    - questionText: What country are they banded from?
+      - answerText: False
+        isCorrect: 0
+    - questionText: Who does he have a child with?
       answers:
-      - answerText: China
+      - answerText: Kylie Jenner
         isCorrect: 1
-      - answerText: Brazil
+      - answerText: Kendall Jenner
         isCorrect: 0
-      - answerText: India
+      - answerText: Kim Kardashian
         isCorrect: 0
-      - answerText: United States
+      - answerText: Khole Kardashian
         isCorrect: 0
   - name: Round XXX
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: His music career began on SoundCloud.
       answers:
-      - answerText: Maroon 6
-        isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: True
         isCorrect: 1
-      - answerText: Whisky
+      - answerText: False
         isCorrect: 0
-      - answerText: AJM
-        isCorrect: 0
-    - questionText: What does their band name come from?
+    - questionText: How old was he when he passed away?
       answers:
-      - answerText: The amount of members
+      - answerText: 17
         isCorrect: 0
-      - answerText: Random name
-        isCorrect: 0
-      - answerText: A fan chose it
-        isCorrect: 0
-      - answerText: No one knows
+      - answerText: 20
         isCorrect: 1
-    - questionText: What country are they banded from?
+      - answerText: 23
+        isCorrect: 0
+      - answerText: 25
+        isCorrect: 0
+    - questionText: How many albums did he release posthumous?
       answers:
-      - answerText: China
+      - answerText: 4
+        isCorrect: 0
+      - answerText: 3
+        isCorrect: 0
+      - answerText: 2
         isCorrect: 1
-      - answerText: Brazil
-        isCorrect: 0
-      - answerText: India
-        isCorrect: 0
-      - answerText: United States
+      - answerText: 1
         isCorrect: 0
   - name: Round Nipsey
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: He took five years to release his debut album
       answers:
-      - answerText: Maroon 6
-        isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: True
         isCorrect: 1
-      - answerText: Whisky
+      - answerText: False
         isCorrect: 0
-      - answerText: AJM
-        isCorrect: 0
-    - questionText: What does their band name come from?
+    - questionText: Jay-Z bought 100 copies of his mixtape for how much?
       answers:
-      - answerText: The amount of members
+      - answerText: $20 each
         isCorrect: 0
-      - answerText: Random name
+      - answerText: $50 each
         isCorrect: 0
-      - answerText: A fan chose it
+      - answerText: $75 each
         isCorrect: 0
-      - answerText: No one knows
+      - answerText: $100 each
         isCorrect: 1
-    - questionText: What country are they banded from?
+    - questionText: He dedicate his time to giving back to his community over his
+        music.
       answers:
-      - answerText: China
+      - answerText: True
         isCorrect: 1
-      - answerText: Brazil
-        isCorrect: 0
-      - answerText: India
-        isCorrect: 0
-      - answerText: United States
+      - answerText: False
         isCorrect: 0
   - name: Round Mac
     timeLimitInSeconds: 60
     pointsAddedForCorrectAnswer: 10
     questions:
-    - questionText: What was the band's original name?
+    - questionText: What was his record label called?
       answers:
-      - answerText: Maroon 6
-        isCorrect: 0
-      - answerText: Kara's Flowers
+      - answerText: REMember Music
         isCorrect: 1
-      - answerText: Whisky
+      - answerText: Rostrum
         isCorrect: 0
-      - answerText: AJM
+      - answerText: Epic Records
         isCorrect: 0
-    - questionText: What does their band name come from?
+      - answerText: Warner Bros.
+        isCorrect: 0
+    - questionText: How old was he when he passed?
       answers:
-      - answerText: The amount of members
+      - answerText: 21
         isCorrect: 0
-      - answerText: Random name
-        isCorrect: 0
-      - answerText: A fan chose it
-        isCorrect: 0
-      - answerText: No one knows
+      - answerText: 26
         isCorrect: 1
-    - questionText: What country are they banded from?
+      - answerText: 30
+        isCorrect: 0
+      - answerText: 29
+        isCorrect: 0
+    - questionText: How many episodes did he release?
       answers:
-      - answerText: China
+      - answerText: 5
         isCorrect: 1
-      - answerText: Brazil
+      - answerText: 3
         isCorrect: 0
-      - answerText: India
+      - answerText: 4
         isCorrect: 0
-      - answerText: United States
+      - answerText: 6
         isCorrect: 0
 --- !u!4 &350258759
 Transform:
