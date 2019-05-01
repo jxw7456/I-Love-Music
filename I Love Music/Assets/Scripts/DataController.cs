@@ -65,19 +65,19 @@ public class DataController : MonoBehaviour
             return allRoundData[15];
 
         else if (SceneManager.GetActiveScene().name == "FutureQuestions")
-            return allRoundData[15];
+            return allRoundData[16];
 
         else if (SceneManager.GetActiveScene().name == "TSQuestions")
-            return allRoundData[15];
+            return allRoundData[17];
 
         else if (SceneManager.GetActiveScene().name == "XXXQuestions")
-            return allRoundData[15];
+            return allRoundData[18];
 
         else if (SceneManager.GetActiveScene().name == "NHQuestions")
-            return allRoundData[15];
+            return allRoundData[19];
 
         else if (SceneManager.GetActiveScene().name == "MMQuestions")
-            return allRoundData[15];
+            return allRoundData[20];
 
         else
             return null;
